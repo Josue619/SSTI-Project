@@ -4,18 +4,9 @@ node_modules
 
 
 # local env files
-.env.local
-.env.*.local
 .env/
-
 .env
 .env-cmd
-.env.development
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
 
 # Log files
 npm-debug.log*
